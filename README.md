@@ -3,3 +3,5 @@
 ![Reconstruction Pipeline](images/image.png)
 
 This repository contains pre-processing, model architectures and training code for our paper. 
+
+![Reconstruction metrics](images/image1.png)
